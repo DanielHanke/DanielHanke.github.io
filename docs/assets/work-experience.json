@@ -1,0 +1,46 @@
+{
+  "work": [
+    {
+      "date": "2021 - Presente",
+      "title": "Especialista de software - Full Stack",
+      "description": "Relevar, definir e implementar, liderando un grupo de trabajo, soluciones web en Angular + NET Core",
+      "stack": [
+        "Angular",
+        "SQL Server",
+        "NET Core",
+        "npm",
+        "Git"
+      ]
+    },
+    {
+      "date": "2019 - 2021",
+      "title": "Especialista de software",
+      "description": "Software HMI en plantas de Argentina, China y Nigeria: Tornos, Apretacuplas, Balanzas y Sistema de impresión de transferencia, Rfid.\n Control de rectitud mediante sistemas láser y demás aplicaciones necesarias para el proceso productivo del cliente",
+      "stack": [
+        "Delphi",
+        "SQL Server"
+      ]
+    },
+    {
+      "date": "2006 - 2019",
+      "title": "Desarrollador de software Sr",
+      "description": "Desarrollo de software especial para captura y análisis de señales satelitales\n Desarrollo de software para análisis espectrográfico de metales. Sistema de control de rectitud de tubos",
+      "stack": [
+        "ARM GNU C ",
+        "Delphi",
+        "SQL Server",
+        "Linux"
+      ]
+    },
+    {
+      "date": "2001 - 2006",
+      "title": "Desarrollador de software SSr",
+      "description": "Desarrollo de aplicación de control de procesos en QNX y Photon. Desarrollo e sistema de ontrol de temperaturas de hornos de la empresa Tenaris via adquisición de pirometría en tiempo real.",
+      "stack": [
+        "Delphi",
+        "SQL Server"
+      ]
+    }    
+
+  ]
+}
