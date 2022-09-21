@@ -1,12 +1,12 @@
 {
   "top_skills": [
-    "QNX",
-    "Delphi",
-    "Angular",
-    "NodeJs",
-    "Git",
-    "SQL Server",
-    "C++",
-    "C# script"
+    {"code":"✓ QNX","logo":""},
+    {"code":"✓ Delphi","logo":"pp"},
+    {"code":"✓ Angular","logo":"pp"},
+    {"code":"✓ NodeJs","logo":"pp"},
+    {"code":"✓ Git","logo":"pp"},
+    {"code":"✓ SQL Server","logo":"pp"},
+    {"code":"✓ C++","logo":"pp"},
+    {"code":"✓ C# script","logo":"pp"}
   ]
 }
