@@ -328,7 +328,7 @@ section {
 section .row {
     display: grid;
     gap: 2rem;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     padding: 0 1.5rem
 }
